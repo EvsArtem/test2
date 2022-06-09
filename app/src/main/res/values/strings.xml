@@ -2,5 +2,9 @@
     <string name="app_name">WeatherApp</string>
     <string name="hello">Hello!</string>
     <string name="Master">Master branch</string>
+<<<<<<< HEAD
     <string name="Three">3</string>
+=======
+    <string name="Four">1</string>
+>>>>>>> Four
 </resources>
